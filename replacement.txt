@@ -1,0 +1,13 @@
+          </div>
+          {/* Bottom Bar */}
+          <div className="md:col-span-2 lg:col-span-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 text-xs text-white font-bold pt-6 mt-4 border-t border-white/10">
+            <p>© {currentYear} VETTED BREW CO. ALL RIGHTS RESERVED.</p>
+            <p className="flex items-center gap-1.5 justify-center">
+              <span>Sourced with honor & roasted in the USA 🇺🇸</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Vetted Brew Co.",
+  "description": "Vetted Brew Co. is a military and first responder coffee brand built for Americans who want their daily ritual to mean something. Featuring branch-inspired blends, interactive order flows, and a standing 10% give-back mission supporting veteran and service-family charities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
